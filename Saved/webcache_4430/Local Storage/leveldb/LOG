@@ -1,3 +1,6 @@
-2024/07/03-12:08:56.199 24d0 Reusing MANIFEST C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/07/03-12:08:56.212 24d0 Recovering log #3
-2024/07/03-12:08:56.213 24d0 Reusing old log C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/07/08-11:33:22.928 399c Reusing MANIFEST C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/08-11:33:22.937 399c Recovering log #3
+2024/07/08-11:33:22.939 399c Reusing old log C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/07/08-13:50:03.305 23f8 Level-0 table #5: started
+2024/07/08-13:50:03.316 23f8 Level-0 table #5: 17566 bytes OK
+2024/07/08-13:50:03.321 23f8 Delete type=0 #3

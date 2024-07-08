@@ -1,6 +1,8 @@
-2024/06/25-14:41:49.145 d80 Creating DB C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/06/25-14:41:49.171 d80 Reusing MANIFEST C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/25-14:41:52.144 d80 Level-0 table #5: started
-2024/06/25-14:41:52.161 d80 Level-0 table #5: 848 bytes OK
-2024/06/25-14:41:52.164 d80 Delete type=0 #3
-2024/06/25-14:41:52.175 d80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/08-13:50:05.020 5770 Reusing MANIFEST C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/08-13:50:05.021 5770 Recovering log #7
+2024/07/08-13:50:05.021 5770 Reusing old log C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/07/08-13:50:07.420 2390 Level-0 table #12: started
+2024/07/08-13:50:07.421 2390 Level-0 table #12: 0 bytes OK
+2024/07/08-13:50:07.427 2390 Delete type=0 #7
+2024/07/08-13:50:07.432 2390 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/08-13:50:07.433 2390 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
