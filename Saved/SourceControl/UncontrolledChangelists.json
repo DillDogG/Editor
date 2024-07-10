@@ -39,7 +39,6 @@
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Blueprints/BP_Rocket.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Blueprints/BP_Pawn.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Models/base.uasset",
-				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Blueprints/MI_Laser.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Input/IA_Fire.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Input/IMC_Ship.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Blueprints/BP_Damageable.uasset",
@@ -73,6 +72,13 @@
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Maps/Landscape_sharedassets/Dirt_LayerInfo.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Maps/Landscape_sharedassets/Grass_LayerInfo.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Maps/Landscape_sharedassets/Rock_LayerInfo.uasset",
+				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Input/IA_Pause.uasset",
+				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Props/BP_Rotate.uasset",
+				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Blueprints/BP_Light.uasset",
+				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Props/BP_Light.uasset",
+				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Props/BP_Door.uasset",
+				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Props/BP_Spline.uasset",
+				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Blueprints/MI_Laser.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Blueprints/BP_GameInstance.uasset",
 				"C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Content/Game/Input/IA_Steer.uasset"
 			]
