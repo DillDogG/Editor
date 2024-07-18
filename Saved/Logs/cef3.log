@@ -1,1 +1,19 @@
-[0716/142834.757:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0717/132930.392:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0717/190536.821:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/190536.927:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/190537.533:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/190537.539:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/190537.647:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/190537.651:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/191226.802:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/191226.811:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/191227.561:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/191227.562:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/191227.634:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/191227.637:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/191231.821:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0717/191441.056:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0717/191441.056:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\Cache to C:/Users/dyarbrough/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/Editor/Saved/webcache_4430\old_Cache_000
+[0717/191441.056:ERROR:disk_cache.cc(184)] Unable to create cache
+[0717/191449.943:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0717/191639.094:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
